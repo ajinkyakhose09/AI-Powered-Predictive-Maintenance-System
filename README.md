@@ -9,15 +9,14 @@ The AI-Powered Predictive Maintenance System is a smart monitoring solution that
 4. **Results:** Display predictions for remaining useful life (RUL), maintenance status, and anomaly detection based on the input data.
 5. **Visualizations:** Visualize historical sensor data and operational hours through histograms, scatter plots, and line charts. Optionally overlay generated input values on visualizations.
 
-✨ Technology Stack ✨
-
-🚀 Streamlit → Build interactive and user-friendly web applications with ease.
-📊 Pandas → Powerful data manipulation and analysis library.
-🔢 NumPy → Efficient numerical computing for large datasets.
-📈 Matplotlib → Create stunning static, animated, and interactive visualizations.
-🎨 Seaborn → Enhance statistical graphics with beautiful and informative plots.
-🤖 scikit-learn → Robust machine learning library for predictive modeling and analysis.
-🌍 GitHub → Collaborate and manage code efficiently with version control.
+## Technologies Used
+- **🚀 Streamlit →:** Build interactive and user-friendly web applications with ease.
+- **📊 Pandas →:** Powerful data manipulation and analysis library.
+- **🔢 NumPy →:** Efficient numerical computing for large datasets
+- **📈 Matplotlib →:** Create stunning static, animated, and interactive visualizations.
+- **🎨 Seaborn →:** Enhance statistical graphics with beautiful and informative plots.
+- **🤖 scikit-learn →:** Robust machine learning library for predictive modeling and analysis.
+- **🌍 GitHub →:** Collaborate and manage code efficiently with version control.
 
 ## Installation
 1. Clone the repository from GitHub: `git clone https://github.com/your_username/predictive-maintenance-dashboard.git`
