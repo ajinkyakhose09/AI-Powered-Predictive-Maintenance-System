@@ -1,8 +1,7 @@
-# Predictive Maintenance Dashboard Documentation
+#  AI Powered Predictive Maintenance System
 
 ## Introduction
-The Predictive Maintenance Dashboard is an interactive web application designed to provide insights into predictive maintenance for industrial machinery. It offers features for data visualization, historical data analysis, input data submission, and prediction results.
-
+The AI-Powered Predictive Maintenance System is a smart monitoring solution that uses machine learning to predict industrial equipment failures before they happen. By analyzing historical sensor data, the system provides real-time insights and helps businesses reduce downtime, optimize maintenance schedules, and improve operational efficiency.
 ## Features
 1. **Home:** Welcome page providing an overview of the application.
 2. **Historical Data:** View historical data of machinery sensor readings and operational hours.
@@ -10,14 +9,15 @@ The Predictive Maintenance Dashboard is an interactive web application designed 
 4. **Results:** Display predictions for remaining useful life (RUL), maintenance status, and anomaly detection based on the input data.
 5. **Visualizations:** Visualize historical sensor data and operational hours through histograms, scatter plots, and line charts. Optionally overlay generated input values on visualizations.
 
-## Technologies Used
-- **Streamlit:** Python library for building interactive web applications.
-- **Pandas:** Data manipulation and analysis library.
-- **NumPy:** Numerical computing library.
-- **Matplotlib:** Data visualization library for creating static, animated, and interactive visualizations.
-- **Seaborn:** Data visualization library based on Matplotlib for statistical graphics.
-- **scikit-learn:** Machine learning library for predictive modeling and data analysis.
-- **GitHub:** Version control repository for project collaboration and code management.
+✨ Technology Stack ✨
+
+🚀 Streamlit → Build interactive and user-friendly web applications with ease.
+📊 Pandas → Powerful data manipulation and analysis library.
+🔢 NumPy → Efficient numerical computing for large datasets.
+📈 Matplotlib → Create stunning static, animated, and interactive visualizations.
+🎨 Seaborn → Enhance statistical graphics with beautiful and informative plots.
+🤖 scikit-learn → Robust machine learning library for predictive modeling and analysis.
+🌍 GitHub → Collaborate and manage code efficiently with version control.
 
 ## Installation
 1. Clone the repository from GitHub: `git clone https://github.com/your_username/predictive-maintenance-dashboard.git`
