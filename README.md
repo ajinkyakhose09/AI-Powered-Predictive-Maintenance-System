@@ -19,7 +19,7 @@ The AI-Powered Predictive Maintenance System is a smart monitoring solution that
 - **🌍 GitHub →:** Collaborate and manage code efficiently with version control.
 
 ## Installation
-1. Clone the repository from GitHub: `git clone https://github.com/your_username/predictive-maintenance-dashboard.git`
+1. Clone the repository from GitHub: `https://github.com/ajinkyakhose09/AI-Powered-Predictive-Maintenance-System.git`
 2. Install the required Python packages: `pip install -r requirements.txt`
 3. Run the Streamlit application: `streamlit run app.py`
 
